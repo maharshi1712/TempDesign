@@ -104,7 +104,7 @@
         }
         
          :root {
-            --input-color: #fff;
+            --input-color: #102138;
             --input-border: #D7385E;
             --input-background: #fff;
             --input-placeholder: #CBD1DC;
